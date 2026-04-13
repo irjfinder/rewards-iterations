@@ -1,6 +1,7 @@
 node_modules
 dist
 dist-ssr
+# NOTE: `docs/` is the GitHub Pages build output — it IS committed.
 *.local
 .vite
 .DS_Store
